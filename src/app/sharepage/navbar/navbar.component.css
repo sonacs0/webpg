@@ -1,0 +1,13 @@
+.navbar-brand{
+    color:rgb(230, 38, 38);
+    font-weight: bold;
+    font-size: 80%;
+    }
+    a{
+        height: 600%;
+        width: 200%;
+        color: black;
+        size: 100%;
+        object-position: right top;
+    
+    }
